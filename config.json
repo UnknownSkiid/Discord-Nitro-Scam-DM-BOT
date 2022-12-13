@@ -1,0 +1,11 @@
+{
+    "bot token": "Your Bot Token",
+    "bot prefix": ">",
+    "site link": "Site Link",
+    "mention in dm": "yes",
+    "dm message": "Congratulations, you have won Nitro!",
+    "button text": "Claim",
+    "image path": "images/nitro.png",
+    "emoji path": "images/emoji.png",
+    "command key": "boo"
+}
